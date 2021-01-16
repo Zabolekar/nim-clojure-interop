@@ -1,1 +1,5 @@
 *.sh
+*.so
+*.h
+*.class
+*.js
